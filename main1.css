@@ -1,0 +1,36 @@
+.navbar{
+    
+    display: inline-block;
+    margin-top: -25px;
+    background-color: #4aaaa5;
+    color:#ffffff;
+    margin-bottom: 50px;
+}
+div#navbarMenu{
+    margin-right: 20%;
+}
+h1.aboutme, .contact{
+    color:#4aaaa5;
+    background-color:#ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin:5px;
+}
+p{
+    line-height: 200%;
+}
+footer{
+    background-color: lightslategray;
+    color:#ffffff;
+    padding:5px;
+    margin:5px;
+    text-align: center;
+    margin-top:100px;
+}
+h1.navbar{
+    margin-left:20%;
+    margin-top: 50px;
+}
+a.nav-link:hover{
+    background-color: #4aaaa5;
+}
