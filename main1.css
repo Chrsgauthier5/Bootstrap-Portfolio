@@ -9,7 +9,7 @@
 div#navbarMenu{
     margin-right: 20%;
 }
-h1.aboutme, .contact{
+h1.aboutme, .contact, .port{
     color:#4aaaa5;
     background-color:#ffffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -25,7 +25,7 @@ footer{
     padding:5px;
     margin:5px;
     text-align: center;
-    margin-top:100px;
+    margin-top:50px;
 }
 h1.navbar{
     margin-left:20%;
@@ -33,4 +33,21 @@ h1.navbar{
 }
 a.nav-link:hover{
     background-color: #4aaaa5;
+}
+img{
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    position: relative;
+}
+
+.card-text{
+    color: #ffffff;
+    background-color: #4aaaa5;
+    padding: 2px;
+    display: inline-block;
+    width: 200px;
+    text-align:center;
+    margin-top: 20%;
+    
 }
